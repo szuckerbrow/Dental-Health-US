@@ -1,0 +1,325 @@
+Year,LocationAbbr,LocationDesc,Category,Indicator,Response,Datasource,Data_Value_Unit,Data_Value_Type,Data_Value,SampleSize
+2018,ID,Idaho,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.7,408
+2018,TN,Tennessee,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,43.5,608
+2018,OR,Oregon,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,29.7,462
+2018,TX,Texas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68,2660
+2018,KY,Kentucky,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,46.2,1232
+2018,PA,Pennsylvania,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,69.5,4308
+2018,WY,Wyoming,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,67.9,1239
+2018,IL,Illinois,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.2,438
+2018,OH,Ohio,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,83,3888
+2018,CA,California,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,74.5,2009
+2018,SD,South Dakota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.8,371
+2018,OH,Ohio,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.6,4133
+2018,ND,North Dakota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.6,3943
+2018,HI,Hawaii,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,93.8,2325
+2018,MI,Michigan,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.4,853
+2018,CA,California,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,92.7,2468
+2018,IN,Indiana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,81.6,2417
+2018,NJ,New Jersey,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,72.2,2237
+2018,DE,Delaware,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,85.3,1483
+2018,MO,Missouri,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,81.5,2138
+2018,DC,District Columbia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,73.8,3237
+2018,MI,Michigan,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,71,7504
+2018,NC,North Carolina,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,43.6,544
+2018,WI,Wisconsin,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,28.8,1349
+2018,AL,Alabama,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,43.1,933
+2018,IL,Illinois,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,11.3,146
+2018,RI,Rhode Island,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.2,214
+2018,WV,West Virginia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,54.8,879
+2018,GA,Georgia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,62.5,5893
+2018,WI,Wisconsin,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,10.4,157
+2018,NV,Nevada,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,39.5,348
+2018,NV,Nevada,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.7,136
+2018,DC,District Columbia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,26.2,1122
+2018,ME,Maine,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,40,1727
+2018,IA,Iowa,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.9,2516
+2018,NY,New York,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,64.1,6808
+2018,UT,Utah,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,89.6,2211
+2018,NH,New Hampshire,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.7,2067
+2018,KY,Kentucky,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,38.1,3193
+2018,NV,Nevada,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,64.7,2080
+2018,SC,South Carolina,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,59.1,2879
+2018,MD,Maryland,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,33.2,5021
+2018,MI,Michigan,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.6,2298
+2018,RI,Rhode Island,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.8,1746
+2018,SC,South Carolina,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,61.8,6910
+2018,FL,Florida,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.5,4859
+2018,NC,North Carolina,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,17.3,222
+2018,ID,Idaho,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,34.3,1202
+2018,WI,Wisconsin,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,71.2,3622
+2018,CO,Colorado,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,9.9,247
+2018,WV,West Virginia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,73.7,1380
+2018,MD,Maryland,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,66.8,12351
+2018,CT,Connecticut,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,72.5,2906
+2018,PA,Pennsylvania,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,83.7,1492
+2018,US,United States,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,66.5,296047
+2018,ID,Idaho,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.1,1206
+2018,ND,North Dakota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.1,2029
+2018,GA,Georgia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,37.7,969
+2018,PR,Puerto Rico,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,54,765
+2018,OK,Oklahoma,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,58.1,1218
+2018,KY,Kentucky,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,53.8,1487
+2018,TX,Texas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.4,480
+2018,US,United States,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.4,19089
+2018,KS,Kansas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.8,2756
+2018,TN,Tennessee,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,56.5,942
+2018,DE,Delaware,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,33.5,1712
+2018,VA,Virginia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88.3,2916
+2018,HI,Hawaii,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,75.3,5851
+2018,VA,Virginia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.8,2333
+2018,FL,Florida,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34.9,2077
+2018,AK,Alaska,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,69.3,1882
+2018,SD,South Dakota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,69.6,1778
+2018,NY,New York,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.4,1564
+2018,SD,South Dakota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,30.4,862
+2018,NJ,New Jersey,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,28.2,258
+2018,RI,Rhode Island,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,66.3,1389
+2018,KY,Kentucky,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,75.5,2159
+2018,WV,West Virginia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,44.7,1978
+2018,MD,Maryland,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,32.2,2026
+2018,TX,Texas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,39.3,4176
+2018,MO,Missouri,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,40.3,1027
+2018,OK,Oklahoma,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,20.2,340
+2018,AL,Alabama,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,20.2,402
+2018,SD,South Dakota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,68,4879
+2018,RI,Rhode Island,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,72.3,4149
+2018,SD,South Dakota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.2,2269
+2018,CO,Colorado,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.6,6229
+2018,OH,Ohio,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,17,759
+2018,LA,Louisiana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,41.9,2028
+2018,RI,Rhode Island,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,33.7,571
+2018,AK,Alaska,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,30.7,836
+2018,ME,Maine,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,65.3,7238
+2018,WA,Washington,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,90.7,4427
+2018,SD,South Dakota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32,2140
+2018,CA,California,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.6,3928
+2018,IN,Indiana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,35.6,2557
+2018,DC,District Columbia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,89.3,1443
+2018,MN,Minnesota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,75.4,3686
+2018,TX,Texas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.6,3297
+2018,GU,Guam,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,41.8,598
+2018,VT,Vermont,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,15.2,289
+2018,IL,Illinois,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,31.9,1658
+2018,NH,New Hampshire,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,32.3,696
+2018,PR,Puerto Rico,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,30.6,1428
+2018,PA,Pennsylvania,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,37.3,613
+2018,LA,Louisiana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,82.5,1118
+2018,OK,Oklahoma,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,41.9,757
+2018,IA,Iowa,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,69.4,2012
+2018,IN,Indiana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,61.2,1851
+2018,VT,Vermont,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,72.6,4786
+2018,MO,Missouri,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,59.7,1566
+2018,HI,Hawaii,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,78.2,1951
+2018,NJ,New Jersey,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,71.8,595
+2018,KS,Kansas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.9,7494
+2018,NV,Nevada,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,60.5,670
+2018,MT,Montana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,66.4,3407
+2018,AL,Alabama,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,56.9,1373
+2018,ME,Maine,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,60,3058
+2018,SC,South Carolina,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,40.9,1807
+2018,DC,District Columbia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,10.7,130
+2018,GA,Georgia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,37.5,3258
+2018,DE,Delaware,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,14.7,243
+2018,ID,Idaho,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.3,966
+2018,MA,Massachusetts,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,25.6,1542
+2018,NV,Nevada,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.3,882
+2018,WY,Wyoming,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,16,258
+2018,AK,Alaska,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,69.1,593
+2018,OK,Oklahoma,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,60.4,3275
+2018,US,United States,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,66,99851
+2018,NY,New York,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,35.9,3895
+2018,MN,Minnesota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,24.6,1146
+2018,AZ,Arizona,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,30.8,903
+2018,ND,North Dakota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34.2,739
+2018,ID,Idaho,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,65.7,2472
+2018,IN,Indiana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,38.8,1064
+2018,WA,Washington,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,9.3,431
+2018,CT,Connecticut,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,91,3566
+2018,IA,Iowa,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,29.2,2540
+2018,GU,Guam,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88,319
+2018,TX,Texas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,60.7,6888
+2018,LA,Louisiana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,39.6,467
+2018,MD,Maryland,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,67.8,4960
+2018,WV,West Virginia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,45.2,900
+2018,NJ,New Jersey,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,27.8,828
+2018,VA,Virginia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.2,948
+2018,MN,Minnesota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,9.3,409
+2018,FL,Florida,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,65.1,3672
+2018,TN,Tennessee,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,78.2,1267
+2018,NH,New Hampshire,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,68.9,4091
+2018,SC,South Carolina,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,83.1,4005
+2018,AL,Alabama,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,60.8,4072
+2018,ME,Maine,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,17.9,738
+2018,DE,Delaware,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,64.8,1154
+2018,HI,Hawaii,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,24.7,2024
+2018,NV,Nevada,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,35.3,1123
+2018,KY,Kentucky,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,24.5,560
+2018,NM,New Mexico,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,85,1973
+2018,VA,Virginia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,71.7,7405
+2018,IL,Illinois,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,68.1,3617
+2018,WA,Washington,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,69.2,9262
+2018,AK,Alaska,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,84.3,737
+2018,CA,California,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,7.3,212
+2018,MO,Missouri,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,63.3,3862
+2018,MT,Montana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34.7,663
+2018,NM,New Mexico,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,35.4,765
+2018,MT,Montana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,65.3,1216
+2018,MT,Montana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,14.1,281
+2018,WY,Wyoming,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,84,1528
+2018,MD,Maryland,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,89.4,6341
+2018,ME,Maine,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,82.1,4047
+2018,RI,Rhode Island,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,27.7,1408
+2018,KY,Kentucky,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,61.9,5217
+2018,WY,Wyoming,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.3,1307
+2018,GU,Guam,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,58.2,1029
+2018,ND,North Dakota,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,65.8,1546
+2018,MA,Massachusetts,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.8,1476
+2018,TN,Tennessee,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,21.8,283
+2018,MI,Michigan,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88.2,2857
+2018,MN,Minnesota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,26.1,4202
+2018,HI,Hawaii,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,6.2,144
+2018,NE,Nebraska,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.3,4628
+2018,GA,Georgia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,83.5,2324
+2018,LA,Louisiana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,58.1,3009
+2018,VA,Virginia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,11.7,365
+2018,IN,Indiana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,18.4,498
+2018,KS,Kansas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,85.6,3384
+2018,CO,Colorado,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,24.8,651
+2018,MA,Massachusetts,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.8,211
+2018,CT,Connecticut,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,9,281
+2018,AL,Alabama,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,39.2,2422
+2018,AZ,Arizona,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,11.5,349
+2018,OH,Ohio,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,61.1,2894
+2018,MA,Massachusetts,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,74.4,5039
+2018,WA,Washington,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,30.8,3772
+2018,IA,Iowa,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.1,304
+2018,VT,Vermont,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,27.4,1687
+2018,AR,Arkansas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,21.5,512
+2018,GU,Guam,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,64.2,239
+2018,VA,Virginia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,28.3,2787
+2018,FL,Florida,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,34.3,5728
+2018,WI,Wisconsin,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,70.6,1168
+2018,AZ,Arizona,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,37.7,2881
+2018,PA,Pennsylvania,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,62.7,1131
+2018,NH,New Hampshire,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,31.1,1578
+2018,DC,District Columbia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34.5,450
+2018,TN,Tennessee,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,41.7,2064
+2018,MI,Michigan,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,11.8,294
+2018,LA,Louisiana,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,60.4,859
+2018,SC,South Carolina,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,16.9,681
+2018,MT,Montana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,85.9,1598
+2018,VT,Vermont,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,84.8,2059
+2018,NM,New Mexico,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,65.1,4402
+2018,KS,Kansas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,14.4,494
+2018,CA,California,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.4,7936
+2018,NJ,New Jersey,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,92.2,771
+2018,NC,North Carolina,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,65.4,3109
+2018,AZ,Arizona,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88.5,2760
+2018,VT,Vermont,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,65.6,1615
+2018,FL,Florida,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.5,890
+2018,DE,Delaware,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,35.2,572
+2018,MS,Mississippi,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,22.9,362
+2018,PR,Puerto Rico,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,69.4,3363
+2018,NE,Nebraska,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.7,9909
+2018,NM,New Mexico,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,34.9,2284
+2018,NE,Nebraska,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.3,674
+2018,GU,Guam,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12,26
+2018,VT,Vermont,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34.4,733
+2018,MS,Mississippi,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,45.9,2656
+2018,WY,Wyoming,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.7,3121
+2018,NE,Nebraska,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,29,1592
+2018,TN,Tennessee,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,58.3,3003
+2018,MS,Mississippi,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,54.1,3072
+2018,ND,North Dakota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.9,256
+2018,NE,Nebraska,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.7,4634
+2018,TX,Texas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,32,1117
+2018,ND,North Dakota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.4,1646
+2018,MT,Montana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,33.6,1717
+2018,MS,Mississippi,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,49.5,939
+2018,ID,Idaho,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.9,168
+2018,GA,Georgia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,16.5,407
+2018,CT,Connecticut,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,27.5,941
+2018,OH,Ohio,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,67.4,8505
+2018,NY,New York,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.6,9139
+2018,NE,Nebraska,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,71,3716
+2018,WI,Wisconsin,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,89.6,1474
+2018,IN,Indiana,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,64.4,4960
+2018,CO,Colorado,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,75.2,2206
+2018,MA,Massachusetts,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.2,581
+2018,UT,Utah,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,25.1,629
+2018,OR,Oregon,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,68,4034
+2018,WV,West Virginia,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,55.3,2860
+2018,WV,West Virginia,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,26.3,399
+2018,WI,Wisconsin,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,29.4,463
+2018,FL,Florida,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,65.7,9311
+2018,US,United States,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,34,47831
+2018,MO,Missouri,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,18.5,455
+2018,MS,Mississippi,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,77.1,1436
+2018,DC,District Columbia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,65.5,1123
+2018,WA,Washington,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,74,3693
+2018,UT,Utah,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,74.9,1848
+2018,AZ,Arizona,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,62.3,5108
+2018,OH,Ohio,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,38.9,1753
+2018,NY,New York,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,69.8,24298
+2018,AR,Arkansas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,54.7,1468
+2018,US,United States,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.6,128593
+2018,PA,Pennsylvania,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,16.3,252
+2018,AZ,Arizona,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,69.2,2206
+2018,MO,Missouri,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,36.7,2279
+2018,AK,Alaska,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,15.7,112
+2018,NC,North Carolina,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,34.6,1571
+2018,KS,Kansas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.1,3229
+2018,IA,Iowa,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,70.8,6503
+2018,LA,Louisiana,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,17.5,208
+2018,HI,Hawaii,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,21.8,518
+2018,OK,Oklahoma,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,79.8,1635
+2018,MN,Minnesota,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,90.7,4423
+2018,CA,California,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,25.5,671
+2018,MN,Minnesota,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,73.9,12673
+2018,NM,New Mexico,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,64.6,1524
+2018,US,United States,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,33.5,136629
+2018,PR,Puerto Rico,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,46,534
+2018,MA,Massachusetts,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,87.2,1846
+2018,DE,Delaware,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,66.5,3434
+2018,UT,Utah,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,72,7659
+2018,CO,Colorado,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32.4,2595
+2018,NJ,New Jersey,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,7.8,82
+2018,IA,Iowa,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,30.6,808
+2018,PR,Puerto Rico,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88.8,1191
+2018,UT,Utah,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,28,2807
+2018,PA,Pennsylvania,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,30.5,1861
+2018,AR,Arkansas,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,78.5,2034
+2018,OR,Oregon,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,86.5,1527
+2018,CT,Connecticut,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,76.5,8371
+2018,AK,Alaska,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,30.9,256
+2018,OR,Oregon,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,13.5,195
+2018,NC,North Carolina,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,82.7,1149
+2018,NC,North Carolina,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,56.4,827
+2018,AR,Arkansas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,Yes,BRFSS,%,Crude Prevalence,56.1,3178
+2018,AR,Arkansas,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,43.9,2102
+2018,MD,Maryland,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,10.6,645
+2018,NY,New York,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,30.2,10931
+2018,WA,Washington,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,26,1165
+2018,NH,New Hampshire,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,12.3,263
+2018,MI,Michigan,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,29,2727
+2018,SC,South Carolina,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,38.2,3813
+2018,CT,Connecticut,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,23.5,2246
+2018,IL,Illinois,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,88.7,1319
+2018,OR,Oregon,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,70.3,1260
+2018,IL,Illinois,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,68.8,1027
+2018,AR,Arkansas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,45.3,1078
+2018,GA,Georgia,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,62.3,1762
+2018,PR,Puerto Rico,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,11.2,108
+2018,NH,New Hampshire,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,67.7,1634
+2018,AL,Alabama,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,79.8,1904
+2018,GU,Guam,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,35.8,106
+2018,NM,New Mexico,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,15,316
+2018,ME,Maine,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,34.7,3566
+2018,OK,Oklahoma,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,39.6,1915
+2018,OR,Oregon,Adult,Adults aged 18+ who have visited a dentist or dental clinic in the past year,No,BRFSS,%,Crude Prevalence,32,1846
+2018,KS,Kansas,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,31.2,1122
+2018,WY,Wyoming,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,32.1,547
+2018,MS,Mississippi,Adult,Adults aged 65+ who have lost six or more teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,50.5,859
+2018,UT,Utah,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,Yes,BRFSS,%,Crude Prevalence,10.4,266
+2018,CO,Colorado,Adult,Adults aged 65+ who have lost all of their natural teeth due to tooth decay or gum disease,No,BRFSS,%,Crude Prevalence,90.1,2610
