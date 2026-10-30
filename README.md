@@ -5,7 +5,7 @@ December 2023
 
 Project 1 
 
-Authors: David Castaño, Jennifer Kim, Kathryn Lesh, and Scott Zuckerbrow
+Author: Scott Zuckerbrow
 
 # Introduction
 
